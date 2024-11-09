@@ -2,6 +2,9 @@
   "extends": "@mate-academy/students-ts-config",
   "include": ["src", "src/@types/i18next.d.ts"],
   "compilerOptions": {
+    "jsx": "react-jsx",
+    "target": "esnext",
+    "module": "esnext",
     "sourceMap": false,
     "types": ["node", "cypress", "i18next"],
     "typeRoots": ["./node_modules/@types", "./src/types"],
