@@ -12,6 +12,7 @@
     overflow: hidden;
     width: 100%;
     padding-top: 100%;
+    transition-duration: var(--transition-duration);
 
     img {
       @include size(100%, 100%);
@@ -54,6 +55,11 @@
 
   @include hover {
     border-radius: 10px;
+
+    .image {
+      border-start-start-radius: var(--size-64) var(--size-64);
+      border-end-end-radius: var(--size-64) var(--size-64);
+    }
 
     img {
       scale: 1.2;
