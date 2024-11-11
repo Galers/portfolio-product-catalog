@@ -28,6 +28,7 @@ export const Cart: FC = () => {
     setShowAlert(false);
     setHideAlert(false);
   };
+
   const toggleModal = () => {
     if (!modalRef.current) return;
 

@@ -100,11 +100,16 @@ The site is available in three languages: **_English_**, **_Ukrainian_** and **_
 Also, all images **_`alt`_**, **_`aria-label`_** and **_`title`_** are localized.
 
 **_English:_**
-<img alt="A screenshot of English Language" src="./public/img/readme/localization/local_en.webp" width='250' >
+
+<div align="center"><img alt="A screenshot of English Language" src="./public/img/readme/localization/local_en.webp" width='250' ></div>
+
 **_Ukrainian:_**
-<img alt="A screenshot of Ukrainian Language" src="./public/img/readme/localization/local_ua.webp" width='250' >
+
+<div align="center"><img alt="A screenshot of Ukrainian Language" src="./public/img/readme/localization/local_ua.webp" width='250' ></div>
+
 **_French:_**
-<img alt="A screenshot of French Language " src="./public/img/readme/localization/local_fr.webp" width='250' >
+
+<div align="center"><img alt="A screenshot of French Language " src="./public/img/readme/localization/local_fr.webp" width='250' ></div>
 
 **_P.S. Unfortunately, I do not speak French and the translation was created 100% with the help of [deepl](https://www.deepl.com/), and my beloved girlfriend helped me with contextual translation. In general, the third language was chosen only for her❤️_**
 
@@ -122,15 +127,16 @@ operation in mobile mode, with color scheme and language menus.
 
 Mobile mode also features a full-screen-view toggle for better experience.
 
-<img alt="A screenshot of Color Scheme, Language and Toggle Full-Screen dropdown menus in mobile version" src="./public/img/readme/mobile-menu/mobile-menu.webp" width='280' height='500'>
-<img alt="A screenshot of Color Scheme, Language and Toggle Full-Screen dropdown menus in mobile version in dark theme" src="/public/img/readme/mobile-menu/mobile-menu-dark.webp" width='280' height='500'>
+<div align="center"><img alt="A screenshot of Color Scheme, Language and Toggle Full-Screen dropdown menus in mobile version" src="./public/img/readme/mobile-menu/mobile-menu.webp" width='280' height='500'>
+<img alt="A screenshot of Color Scheme, Language and Toggle Full-Screen dropdown menus in mobile version in dark theme" src="/public/img/readme/mobile-menu/mobile-menu-dark.webp" width='280' height='500'></div>
 
 ### Optimization
 
 - images are served in **webp** format and have been optimized with **[Squoosh](https://squoosh.app/)**
 
 **_Lighthouse ratings:_**
-<img alt="A screenshot of my website's Lighthouse report with the following ratings: Performance: 95, Accessibility: 95, Best Practices: 100, SEO: 100." src="./public/img/readme/lighthouse/lighthouse_1.webp">
+
+<div align="center"><img alt="A screenshot of my website's Lighthouse report with the following ratings: Performance: 95, Accessibility: 95, Best Practices: 100, SEO: 100." src="./public/img/readme/lighthouse/lighthouse_1.webp"></div>
 
 ## <h2 id="get-the-initial-code">Get the initial code 👨‍💻</h2>
 
